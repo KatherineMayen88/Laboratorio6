@@ -1,0 +1,18 @@
+﻿  MyForm.cpp
+C:\Users\kathe\source\repos\Lab6_Katherine_Mayen_1129222\Lab6_Katherine_Mayen_1129222\Orden.h(241,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kathe\source\repos\Lab6_Katherine_Mayen_1129222\Lab6_Katherine_Mayen_1129222\Orden.h(241,40): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kathe\source\repos\Lab6_Katherine_Mayen_1129222\Lab6_Katherine_Mayen_1129222\Orden.h(248,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\kathe\source\repos\Lab6_Katherine_Mayen_1129222\Lab6_Katherine_Mayen_1129222\Orden.h(248,39): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kathe\source\repos\Lab6_Katherine_Mayen_1129222\Lab6_Katherine_Mayen_1129222\MyForm.h(226,15): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\kathe\source\repos\Lab6_Katherine_Mayen_1129222\Lab6_Katherine_Mayen_1129222\MyForm.h(251,15): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\kathe\source\repos\Lab6_Katherine_Mayen_1129222\Lab6_Katherine_Mayen_1129222\MyForm.h(276,15): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lab6_Katherine_Mayen_1129222.vcxproj -> C:\Users\kathe\source\repos\Lab6_Katherine_Mayen_1129222\x64\Debug\Lab6_Katherine_Mayen_1129222.exe

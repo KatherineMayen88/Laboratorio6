@@ -1,0 +1,3 @@
+C:\Users\kathe\source\repos\Lab6_Katherine_Mayen_1129222\Lab6_Katherine_Mayen_1129222\x64\Debug\Lab6_Katherine_Mayen_1129222.vcxproj.AssemblyReference.cache
+C:\Users\kathe\source\repos\Lab6_Katherine_Mayen_1129222\Lab6_Katherine_Mayen_1129222\x64\Debug\Lab6KatherineMayen1129222.MyForm.resources
+C:\Users\kathe\source\repos\Lab6_Katherine_Mayen_1129222\Lab6_Katherine_Mayen_1129222\x64\Debug\Lab6_Katherine_Mayen_1129222.vcxproj.GenerateResource.cache
